@@ -1,0 +1,6 @@
+{
+  "name": "DOS Typing Tutor",
+  "description": "A classic retro DOS-style Typing Tutor game featuring modular lessons, keyboard visualizer, falling words comet shield game, and speed test modes with authentic PC speaker synthetic sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
